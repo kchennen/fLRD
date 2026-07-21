@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lock files
+*lock*
+uv.lock
+
+# Python version management
+.python-version
+
+# Code spell checker
+.cspell/
+
+# Conda environment files
+.conda/
+
+data/
+
+tests/
+site/
